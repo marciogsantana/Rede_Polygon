@@ -13,9 +13,12 @@ avaliando velocidade e custos das taxas.
 ![Front1](https://github.com/marciogsantana/imagens/blob/main/front_carteira_conectada.PNG) ![Front 2](https://github.com/marciogsantana/imagens/blob/main/front_nft.png)
 
 
-## Hash transação e contrato Polygon
+## Hash transação 
 ![Blockscout](https://github.com/marciogsantana/imagens/blob/main/hash_transacao.png) 
 
+## Contrato rede Polygon Mumbai
+
+![Blockscout](https://github.com/marciogsantana/imagens/blob/main/contrato_polygon.png) 
 
 ## NFT na opensea,
 ![Front1](https://github.com/marciogsantana/imagens/blob/main/nft_opensea.PNG) 
